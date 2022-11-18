@@ -542,12 +542,12 @@
             <field name="view_id" ref="qb_account_form_view_custom" />
         </record>
 
-        <record model="ir.actions.act_window.view" id="qb_vendor_form_view">
+<!--         <record model="ir.actions.act_window.view" id="qb_vendor_form_view">
             <field name="act_window_id" ref="qb_vendor_menu" />
             <field name="view_mode">form</field>
             <field name="view_id" ref="qb_vendor_form_view_custom" />
         </record>
-
+ -->
         <record model="ir.actions.act_window.view" id="qb_customer_form_view">
             <field name="act_window_id" ref="qb_customer_menu" />
             <field name="view_mode">form</field>
