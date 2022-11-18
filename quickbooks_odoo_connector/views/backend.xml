@@ -124,7 +124,7 @@
                 </tree>
             </field>
         </record>
-
+<!-- 
         <record model="ir.ui.view" id="qb_vendor_form_view_custom">
             <field name="name">Quickbooks Vendors</field>
             <field name="model">quickbook.vendors</field>
@@ -140,13 +140,13 @@
                         <field name="email"/>
                         <field name="website"/>
                         <field name="customer"/>
-<!--                         <field name="supplier"/> -->
+                        <field name="supplier"/>
                         <field name="vendor_odoo"/>
                         <field name="quickbook_id"/>
                     </group>
                 </form>
             </field>
-        </record>
+        </record> -->
 
         <record model="ir.ui.view" id="qb_employee_tree_view_custom">
             <field name="name">QbEmployees</field>
