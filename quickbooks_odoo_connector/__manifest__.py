@@ -32,7 +32,7 @@
         'security/security_view.xml',
         'views/backend.xml',
         'views/customer_vendor.xml',
-        'views/product_quick.xml',
+#         'views/product_quick.xml',
         'views/payment_term_view.xml',
         'views/quick_account.xml',
         'views/employee_form.xml',
